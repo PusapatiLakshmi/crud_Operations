@@ -1,0 +1,30 @@
+.example-spacer {
+    padding-left: 500px;
+    font-style: italic;
+    color: white;
+  }
+  .img{
+    width: 200px;
+    height: 70px;
+  }
+  .name{
+    padding-left: 800px;
+    font-style: italic;
+    color: red;
+  }
+.example-form{
+  min-height: 100%;
+  padding: 60px 1rem;
+  background: #16bca8;
+}
+.example-full-width{
+  padding-left: 800px;
+}
+.text-center{
+  color: red;
+  padding-left: 50px;
+}
+.button{ 
+  text-align: center;
+  margin-inline-start: 860px;
+ }

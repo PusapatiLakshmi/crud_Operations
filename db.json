@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "firstName": "Satish",
+      "lastName": "Raj",
+      "email": "raj@gmail.com",
+      "address": "KPHB",
+      "phone": "9908765456",
+      "action": "",
+      "id": 1
+    },
+    {
+      "firstName": "Lakshmi",
+      "lastName": "Pusapati",
+      "email": "lak@gmail.com",
+      "address": "KPHB",
+      "phone": "8097599087",
+      "action": "",
+      "id": 2
+    },
+    {
+      "firstName": "Jashwitha",
+      "lastName": "Sai",
+      "email": "sai@gmail.com",
+      "address": "KPHB",
+      "phone": "7056854321",
+      "action": "",
+      "id": 3
+    },
+    {
+      "firstName": "Niramala",
+      "lastName": "Pusapati",
+      "email": "nir@gmail.com",
+      "address": "Vijayawada",
+      "phone": "8879068880",
+      "action": "",
+      "id": 4
+    },
+    {
+      "firstName": "Thirupati",
+      "lastName": "Raju",
+      "email": "raju@gmail.com",
+      "address": "Vijayawada",
+      "phone": "7908611115",
+      "action": "",
+      "id": 5
+    },
+    {
+      "firstName": "Rasi",
+      "lastName": "Meher",
+      "email": "rasi@gmail.com",
+      "address": "Hyderbad",
+      "phone": "9967844563",
+      "action": "",
+      "id": 6
+    }
+  ]
+}

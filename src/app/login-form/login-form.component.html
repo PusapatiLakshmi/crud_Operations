@@ -1,0 +1,28 @@
+<mat-toolbar class="mat" color="primary">
+    <img class="img" src="../assets/images/download.png" />
+    <span class="example-spacer"></span>
+    Employee Management
+    <a class="name">Lakshmi</a>
+  </mat-toolbar> 
+
+<form class="example-form">
+  <mat-form-field class="example-full-width" appearance="fill">
+  <mat-label>Email</mat-label>
+  <input matInput placeholder="Enter email ID" name="email"
+  [(ngModel)] ="email">
+  </mat-form-field>
+  <mat-form-field class="example-full-width" appearance="fill">
+  <mat-label>Password</mat-label>
+  <input matInput placeholder="Enter your password" value="" name="password" type="password" [(ngModel)]= "password">
+  </mat-form-field>
+  <br/>
+  <button mat-raised-button color="primary" class="button" (click)="submit()">Submit</button>
+  </form> 
+
+ <!-- <form [formGroup]="loginform" (ngSubmit)="CheckUser()">
+    username: <input type="text" id="uname" name="uname" formControlName="uname">
+    password: <input type="password" id="pwd" name="pwd" formControlName="pwd">
+    <div>
+      <button type="submit">Login</button>
+    </div>
+  </form>  -->
